@@ -70,7 +70,9 @@
     justify-content: center;
 
     transition: background-color 0.2s;
+    transition: box-shadow 0.2s;
 }
 .content-wrapper .enter-app:hover {
     background-color: #96FEFF;
+    box-shadow: 3px 3px 3px 0px rgba(0,0,0,0.4);
 }
